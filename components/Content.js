@@ -1,4 +1,4 @@
-function Content() {
+function Content(props) {
   return (
     <div>
       <p>
@@ -12,6 +12,8 @@ function Content() {
         with desktop publishing software like Aldus PageMaker including versions
         of Lorem Ipsum.
       </p>
+      <h2>{props.details}</h2>
+      <h3>{props.king}</h3>
     </div>
   );
 }
