@@ -1,7 +1,8 @@
 function Footer() {
   return (
     <div>
-      <h1 color="blue">Life</h1>
+      <h1>Life</h1>
+      <h2>Start</h2>
       <p>"A man lives everyday."</p>
     </div>
   );

@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <Title heading="Tuesday" />
       <Title heading="Wednesday" />
-      <Content details="Yvonne" />
+      <Content details="Beginnings" />
       <Content king="life" />
       <Footer />
       <Footer />
