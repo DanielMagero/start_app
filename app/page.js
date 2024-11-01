@@ -10,6 +10,7 @@ export default function Home() {
       <Content details="Yvonne" />
       <Content king="life" />
       <Footer />
+      <Footer />
     </div>
   );
 }
