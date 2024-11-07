@@ -10,7 +10,9 @@ export default function Home() {
     <div>
       <Title heading="Tuesday" onClick={goToNextPage} />
       <Content details="Beginnings" />
-      <Button variant="contained">Contained</Button>
+      <Button variant="contained" disabled>
+        Contained
+      </Button>
       <Footer />
       <br />
 
